@@ -27,4 +27,4 @@ From the end-user perspective, VODTracker will offer:
 This project is reasonable for a team of 4-6 developers to build over a semester, with the deliverables being:
 - A backend that can record VODs from Twitch with a database that can store VOD metadata.
 - A frontend that for browsing VODs and playing past streams
-- We want to target just one small streamer to keep the scope manageable.
+- We want to target just one small streamer with an active community to keep the scope manageable
