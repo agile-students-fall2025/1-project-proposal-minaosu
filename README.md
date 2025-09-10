@@ -1,18 +1,19 @@
 # VODTracker
 
 ## Team Members
-- [Brandon Rodriguez](bbranduhn)  
-- [Xiaomin Liu](xl4624)  
+- [Brandon Rodriguez](https://github.com/bbranduhn)  
+- [Xiaomin Liu](https://github.com/xl4624)  
 
 ## What and Why?  
 VODTracker is a service designed to improve the way Twitch users replay or catch up on livestreams from their favorite creators. While Twitch does provide VODs (video-on-demand), the current design is limited:  
-- Old VODs expire: Twitch automatically deletes VODs after a certain set period of time (Twitch Partners, Prime, and Twitch Turbo users have 60 days, and other broadcasters have 7 days source)  
+- Old VODs expire: Twitch automatically deletes VODs after a certain set period of time (Twitch Partners, Prime, and Twitch Turbo users have 60 days, and other broadcasters have 7 days [Twitch](https://help.twitch.tv/s/article/video-on-demand?language=en_US#vod))  
 - Delayed chat replays: Chat is not synchronized smoothly with VODs  
 - No enhancements: the current system doesn’t provide navigation tools that help viewers catch up efficiently  
 - Muted playback: Copyright detection mutes large sections of streams, even when the creator is speaking with background music  
 
 ## For whom?
 The primary users are Twitch viewers, especially those who follow creators but can’t always watch live due to time zones or other commitments. These users revisit streams to watch gameplay segments, specific segments, or most viewed moments.  
+
 Additionally, content creators who diversify their content and/or highlights across multiple social media platforms have access to a navigation tool that improves accessibility by automatically organizing VODs by activity. 
 	
 ## How?
